@@ -1,0 +1,160 @@
+@font-face {
+    font-family: 'Reddit Sans';
+    src: url('RedditSans-Bold.woff2') format('woff2'),
+        url('RedditSans-Bold.woff') format('woff'),
+        url('RedditSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reddit Sans';
+    src: url('RedditSans-ExtraBold.woff2') format('woff2'),
+        url('RedditSans-ExtraBold.woff') format('woff'),
+        url('RedditSans-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reddit Sans';
+    src: url('RedditSans-BoldItalic.woff2') format('woff2'),
+        url('RedditSans-BoldItalic.woff') format('woff'),
+        url('RedditSans-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reddit Sans';
+    src: url('RedditSans-BlackItalic.woff2') format('woff2'),
+        url('RedditSans-BlackItalic.woff') format('woff'),
+        url('RedditSans-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reddit Sans';
+    src: url('RedditSans-ExtraBoldItalic.woff2') format('woff2'),
+        url('RedditSans-ExtraBoldItalic.woff') format('woff'),
+        url('RedditSans-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reddit Sans';
+    src: url('RedditSans-ExtraLight.woff2') format('woff2'),
+        url('RedditSans-ExtraLight.woff') format('woff'),
+        url('RedditSans-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reddit Sans';
+    src: url('RedditSans-Medium.woff2') format('woff2'),
+        url('RedditSans-Medium.woff') format('woff'),
+        url('RedditSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reddit Sans';
+    src: url('RedditSans-SemiBold.woff2') format('woff2'),
+        url('RedditSans-SemiBold.woff') format('woff'),
+        url('RedditSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reddit Sans';
+    src: url('RedditSans-Black.woff2') format('woff2'),
+        url('RedditSans-Black.woff') format('woff'),
+        url('RedditSans-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reddit Sans';
+    src: url('RedditSans-MediumItalic.woff2') format('woff2'),
+        url('RedditSans-MediumItalic.woff') format('woff'),
+        url('RedditSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reddit Sans';
+    src: url('RedditSans-LightItalic.woff2') format('woff2'),
+        url('RedditSans-LightItalic.woff') format('woff'),
+        url('RedditSans-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reddit Sans';
+    src: url('RedditSans-SemiBoldItalic.woff2') format('woff2'),
+        url('RedditSans-SemiBoldItalic.woff') format('woff'),
+        url('RedditSans-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reddit Sans';
+    src: url('RedditSans-Italic.woff2') format('woff2'),
+        url('RedditSans-Italic.woff') format('woff'),
+        url('RedditSans-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reddit Sans';
+    src: url('RedditSans-Regular.woff2') format('woff2'),
+        url('RedditSans-Regular.woff') format('woff'),
+        url('RedditSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reddit Sans';
+    src: url('RedditSans-ExtraLightItalic.woff2') format('woff2'),
+        url('RedditSans-ExtraLightItalic.woff') format('woff'),
+        url('RedditSans-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Reddit Sans';
+    src: url('RedditSans-Light.woff2') format('woff2'),
+        url('RedditSans-Light.woff') format('woff'),
+        url('RedditSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
